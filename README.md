@@ -5,8 +5,7 @@
 2.  [Journal Paper](https://doi.org/10.3390/min11080823): van Zijl, N., Bradshaw, S. M., Auret, L., & Louw, T. M. (2021). A Hierarchical Approach to Improve the Interpretability of Causality Maps for Plant-Wide Fault Identification. Minerals, 11(8), 823.
 
 **Getting started**
-* For a summary, see the presentation, 'Final feedback_02-09-2020' in this repo.
-* This code follows the approach named 'PS-PC1' in the presentation, and incorporates the following tools covered in the presentation:
+For a summary, see the presentation, 'Final feedback_02-09-2020' in this repo. This code follows the approach named 'PS-PC1' in the presentation, and incorporates the following tools covered in the presentation:
 1. Incorporating process knowledge by validating data-based connections with a connectivity matrix.
 2. Incorporating process knowledge by constraining potential root causes.
 3. Tools for interpretation: Display node rankings
